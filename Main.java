@@ -1,6 +1,8 @@
 public class Main
 {
-	public static void main(String[] args) {
-		System.out.println("Hello World");
+	public static int main(String[] args) {
+	    int v1=1, v2=2, result;
+		result= v1+v2;
+		return result;
 	}
 }
